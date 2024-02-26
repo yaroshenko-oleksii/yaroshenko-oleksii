@@ -1,4 +1,10 @@
-### Hi there 👋
+## Yaroshenko Oleksii 👋
+
+- Have experience of manual kua for more than 7 years
+- Have work experience in the position of QA Team Lead
+
+
+
 
 <!--
 **yaroshenko-oleksii/yaroshenko-oleksii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
